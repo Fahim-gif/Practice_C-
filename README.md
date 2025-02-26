@@ -1,5 +1,8 @@
-# Practice_C++
+Practice_C++
+Note: If you are new to coding or the C++ language, it's recommended to seek help from someone who has experience with it.
 
-***If you don't know anything about codeing and C++ language then you should take someone's help who do know about it***
+This repository is my C++ practice zone, where I push the code I learn. The files are named in the format tut(number).cpp, representing different tutorial codes.
 
-This is my CPP practice zone where I use to push my learned code. Here [tut(number).cpp] is the learning files. Here most of the code are comment out by this symbol "//" anyone can remove it and use them to learn what the code is about but make sure to comment out other code part.
+Most of the code is commented out using //. You can uncomment specific parts to experiment and understand how the code works. However, ensure that you comment out other sections as needed to avoid conflicts while running the code.
+
+Feel free to explore and practice!
